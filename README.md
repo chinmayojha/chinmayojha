@@ -34,4 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayojha&show_icons=true&locale=en&layout=compact" alt="chinmayojha" /></p>
 <p> </p>
 <br>
+<br>
+<br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayojha&" alt="chinmayojha" /></p>
