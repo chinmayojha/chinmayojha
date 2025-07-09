@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **on Data Structures and Algorithms, and Frontend Development**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Full Stack JAVA**
 
 - 👯 I’m looking to collaborate on **on designing data and organizing them, and UI/UX designing**
 
-- 🤝 I’m looking for help with **in problem solving, and frontend development**
+- 🤝 I’m looking for help with **in problem solving, and backend development**
 
 - 💬 Ask me about **Data Structures, and Frontend Development**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1y7vcor5kOQAKKpPNYqLVaEE_SeESVqH2/view?usp=sharing](https://drive.google.com/file/d/1y7vcor5kOQAKKpPNYqLVaEE_SeESVqH2/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am good at cracking jokes**
+- ⚡ Fun fact **I think I am good at cracking jokes(I think)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
